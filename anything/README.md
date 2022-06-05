@@ -1,0 +1,1 @@
+This directory contains porject related applications or configurations.
