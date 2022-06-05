@@ -1,1 +1,1 @@
-This project contains all related infrastructure code file in infrastructure directory. If you want to provision please move that directory.
+This project contains all related infrastructure code file in infrastructure directory. If you want to provision please move that [directory](https://github.com/Learn4Ops/simple-terraform-project-with-modules/tree/main/infrastructure) .
