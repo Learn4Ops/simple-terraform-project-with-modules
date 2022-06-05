@@ -1,2 +1,1 @@
-# simple-terraform-project-with-modules
- 
+This project contains all related infrastructure code file in infrastructure directory. If you want to provision please move that directory.
