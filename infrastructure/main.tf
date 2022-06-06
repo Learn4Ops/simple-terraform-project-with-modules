@@ -1,6 +1,6 @@
 module "aks" {
 
-  source = "git::https://github.com/Learn4Ops/simple-terraform-aks-module.git?ref=v1.0"
+  source = "git::https://github.com/Learn4Ops/simple-terraform-aks-module.git?ref=v1.1"
 
   location                    = var.location
   environment                 = var.environment
@@ -18,7 +18,7 @@ module "aks" {
 
 module "postgres" {
 
-  source = "git::https://github.com/Learn4Ops/simple-terraform-postgres-module.git?ref=v1.0"
+  source = "git::https://github.com/Learn4Ops/simple-terraform-postgres-module.git?ref=v1.1"
 
   location                    = var.location
   environment                 = var.environment
@@ -41,7 +41,7 @@ module "postgres" {
 
 module "cr" {
 
-  source = "git::https://github.com/Learn4Ops/simple-terraform-cr-module.git?ref=v1.0"
+  source = "git::https://github.com/Learn4Ops/simple-terraform-cr-module.git?ref=v1.1"
 
   location    = var.location
   environment = var.environment
